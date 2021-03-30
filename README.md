@@ -2,6 +2,6 @@
 Refactoring the Code for Horiseon
 
 Tasks Completed:
-1. Consolidating redundant class and reordering
+1. Consolidating redundant class and reordering 
 
 
