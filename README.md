@@ -1,4 +1,7 @@
 # Homework1
-First Homework Assignment
-This is my Practive for my Homework
+Refactoring the Code for Horiseon
+
+Tasks Completed:
+1. Consolidating redundant class and reordering
+
 
